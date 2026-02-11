@@ -1,0 +1,12 @@
+{
+    "s0HpU%U4S0omBL{PNbt4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//w8AAADw////DwAAAPD///8PAADw/////w8AABHx////DwAAEfH///8PAAAf8f///w8AAPD/////DwAAEfH//wAAAAAR8f8AAAAAAB/x/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bob"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
