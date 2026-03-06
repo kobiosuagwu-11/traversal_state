@@ -1,5 +1,5 @@
 {
-    "name": "Traversal",
+    "name": "Traversal State",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.8",
+        "target": "4.0.10",
         "targetId": "arcade"
     },
     "supportedTargets": [
