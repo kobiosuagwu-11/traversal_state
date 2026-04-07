@@ -2,7 +2,10 @@
     "name": "Traversal State",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "darts": "*",
+        "browser-events": "*"
     },
     "files": [
         "main.blocks",
@@ -18,7 +21,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.10",
+        "target": "4.0.12",
         "targetId": "arcade"
     },
     "supportedTargets": [
